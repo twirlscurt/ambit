@@ -1,3 +1,5 @@
+Legal Agreement
+
 Purpose and Scope
 
 This Agreement sets out the terms, conditions, rights, and obligations governing the use, handling, and management of the materials and information referenced herein.
@@ -10,7 +12,7 @@ Repository:
 https://github.com/twirlscurt/ambit
 
 Document/File Reference:
-https://github.com/twirlscurt/ambit/blob/main/Ansu
+https://github.com/twirlscurt/ambit/blob/main/Ansu.md
 
 By accepting this Agreement, the parties acknowledge that they have read, understood, and agree to be bound by the terms and conditions contained within this document.
 
